@@ -1,0 +1,26 @@
+.add_dash{
+ 
+    color:black;
+    justify-content:center;
+    padding:9px;
+    width: 60px;
+    height: 29px;
+    
+    transition-duration: 0.7s;
+    padding: 5pt;
+    border: none;
+    background-color: inherit;
+
+}
+.add_dash:hover {
+    background-color: #160342; 
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 18px 24px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .adddialog:hover{
+    
+    color: rgb(88, 3, 55);
+    cursor: pointer;
+    box-shadow: 0 18px 24px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }

@@ -1,0 +1,70 @@
+.addadata{
+    border-color: rgb(113, 215, 240);
+    justify-content: center;
+    align-items: center;
+    width: 640px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 10pt;
+    background-color:#FFFFFF;
+    border-radius: 2rem;
+    box-shadow: 0 0 10px rgb(243, 234, 189);
+    position: relative;
+    margin-bottom: 100pt;
+    margin-top: 60pt;
+  
+
+}
+.buttonupper{
+    align-items: center;
+    position: absolute;
+    top: 5px;
+    left: 28px;
+}
+.buttonleft{
+    align-items: center;
+    position: absolute;
+    top: 5px;
+    
+    right: 16px;
+}
+.uppermid{
+    align-items: center;
+    position: absolute;
+    top: 5px;
+    left: 43%;
+    right: 57%;
+}
+.addbutton{
+    border-radius: 3px;
+    color:#5a5a5a;
+    justify-content:center;
+    padding:9px;
+   
+    border-radius: 15px;
+    background-color: rgb(251, 196, 226);
+    transition-duration: 0.7s;
+    padding: 15pt;
+   
+
+}
+.addbutton:hover {
+    background-color: #7a0254; 
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .textfield1{
+    padding: 4px;
+  }
+ h1{
+    margin-top: 100px;
+    font-size: 25px;
+    color: brown;
+ }
+ .expen{
+    margin-bottom: 90px;
+ }
